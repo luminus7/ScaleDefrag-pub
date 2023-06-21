@@ -1,0 +1,1290 @@
+Linux 5.5.8test (syslab-desk) 	2021년 08월 23일 	_x86_64_	(16 CPU)
+
+2021년 08월 23일 11시 50분 07초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.04    0.00    0.06    0.31    0.00   99.58
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb             18.70   41.73      0.09      1.49     0.04    30.75   0.20  42.43    0.45    1.68   0.02     4.99    36.63   0.11   0.65
+
+2021년 08월 23일 11시 50분 08초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.25    0.13    0.00   99.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb              0.00    0.00      0.00      0.00     0.00     0.00   0.00   0.00    0.00    0.00   0.00     0.00     0.00   0.00   0.00
+
+2021년 08월 23일 11시 50분 09초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    0.87    0.37    0.00   98.57
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           2362.00    1.00     10.67      0.00   359.00     0.00  13.19   0.00    0.12    1.00   0.00     4.62     0.00   0.13  31.20
+
+2021년 08월 23일 11시 50분 10초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.94    2.07    0.00   95.87
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           6522.00  293.00     26.28     14.54   200.00     0.00   2.98   0.00    0.08    0.88   0.00     4.13    50.83   0.15 100.00
+
+2021년 08월 23일 11시 50분 11초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.13    0.94    0.00   97.80
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           6790.00  517.00     27.11     26.32   148.00     0.00   2.13   0.00    0.06    0.86   0.00     4.09    52.12   0.14 100.00
+
+2021년 08월 23일 11시 50분 12초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.45    3.70    0.00   93.73
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           5309.00  419.00     20.86     20.55    30.00     0.00   0.56   0.00    0.07    0.92   0.00     4.02    50.23   0.17 100.00
+
+2021년 08월 23일 11시 50분 13초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.32    3.63    0.00   93.86
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           5254.00  410.00     20.77     20.51    60.00     0.00   1.13   0.00    0.07    0.98   0.01     4.05    51.22   0.18 100.00
+
+2021년 08월 23일 11시 50분 14초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.14    0.63    0.00   97.04
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           5129.00  405.00     20.27     22.40    60.00   651.00   1.16  61.65    0.07    0.98   0.02     4.05    56.64   0.18 100.00
+
+2021년 08월 23일 11시 50분 15초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.39    0.82    0.00   96.67
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           5123.00  424.00     20.01     19.89     0.00     0.00   0.00   0.00    0.07    0.90   0.00     4.00    48.04   0.18 100.00
+
+2021년 08월 23일 11시 50분 16초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    2.75    3.50    0.00   93.51
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           5500.00  440.00     21.49     21.35     0.00     0.00   0.00   0.00    0.07    0.91   0.00     4.00    49.68   0.17 100.40
+
+2021년 08월 23일 11시 50분 17초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.52    0.31    0.00   97.10
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           6560.00  498.00     25.62     25.47     0.00     0.00   0.00   0.00    0.07    0.55   0.02     4.00    52.38   0.14  98.40
+
+2021년 08월 23일 11시 50분 18초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    3.06    3.25    0.00   93.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7537.00  571.00     29.44     29.25     0.00     0.00   0.00   0.00    0.06    0.42   0.00     4.00    52.46   0.12 100.00
+
+2021년 08월 23일 11시 50분 19초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.33    3.58    0.00   93.90
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7299.00  613.00     28.51     29.68     0.00   299.00   0.00  32.79    0.07    0.43   0.00     4.00    49.58   0.13 100.00
+
+2021년 08월 23일 11시 50분 20초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.82    1.88    0.00   97.17
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9516.83  768.32     37.41     37.13    58.42     0.00   0.61   0.00    0.06    0.43   0.00     4.03    49.48   0.10  99.41
+
+2021년 08월 23일 11시 50분 21초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.76    3.26    0.00   93.85
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7706.00  566.00     30.10     29.89     0.00     0.00   0.00   0.00    0.06    0.42   0.00     4.00    54.07   0.12  99.60
+
+2021년 08월 23일 11시 50분 22초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.15    1.07    0.00   96.72
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7037.00  542.00     27.49     28.40     0.00   283.00   0.00  34.30    0.07    0.48   0.02     4.00    53.66   0.13  98.40
+
+2021년 08월 23일 11시 50분 23초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.63    0.25    0.00   98.99
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9890.00  825.00     39.37     38.15   182.00     0.00   1.81   0.00    0.06    0.42   0.00     4.08    47.35   0.09 100.40
+
+2021년 08월 23일 11시 50분 24초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.25    0.25    0.00   98.44
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10235.00  864.00     39.99     40.10     2.00     0.00   0.02   0.00    0.05    0.41   0.00     4.00    47.52   0.09 100.00
+
+2021년 08월 23일 11시 50분 25초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.57    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10529.00  828.00     41.13     40.71     0.00     0.00   0.00   0.00    0.05    0.42   0.00     4.00    50.35   0.09 100.00
+
+2021년 08월 23일 11시 50분 26초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.06    2.81    0.00   93.94
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7552.00  618.00     29.62     29.68    30.00     0.00   0.40   0.00    0.06    0.40   0.00     4.02    49.18   0.12  99.20
+
+2021년 08월 23일 11시 50분 27초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    3.18    3.49    0.00   93.09
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7684.00  600.00     30.14     31.83    30.00   521.00   0.39  46.48    0.06    0.47   0.02     4.02    54.32   0.12  99.20
+
+2021년 08월 23일 11시 50분 28초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.95    3.07    0.00   93.86
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7600.00  542.00     30.05     29.68    91.00     0.00   1.18   0.00    0.06    0.43   0.00     4.05    56.07   0.12 100.00
+
+2021년 08월 23일 11시 50분 29초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.25    0.56    0.00   98.12
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10234.00  764.00     40.22     39.69    60.00     0.00   0.58   0.00    0.05    0.46   0.00     4.02    53.20   0.09 100.00
+
+2021년 08월 23일 11시 50분 30초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.28    0.76    0.00   96.84
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7461.00  580.00     29.14     29.20     0.00     0.00   0.00   0.00    0.06    0.42   0.00     4.00    51.55   0.12  99.60
+
+2021년 08월 23일 11시 50분 31초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.19    3.25    0.00   93.38
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8067.00  603.00     31.63     31.34    30.00     0.00   0.37   0.00    0.06    0.41   0.00     4.02    53.21   0.12 100.40
+
+2021년 08월 23일 11시 50분 32초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    3.18    3.43    0.00   93.26
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7795.00  573.00     30.57     31.92    30.00   381.00   0.38  39.94    0.06    0.48   0.02     4.02    57.05   0.12  98.40
+
+2021년 08월 23일 11시 50분 33초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    3.30    3.30    0.00   93.09
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7589.00  584.00     29.89     29.48    60.00     0.00   0.78   0.00    0.06    0.41   0.00     4.03    51.69   0.12 100.00
+
+2021년 08월 23일 11시 50분 34초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.06    3.06    0.00   93.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7962.00  590.00     31.22     31.03    29.00     0.00   0.36   0.00    0.06    0.41   0.00     4.02    53.86   0.12 100.00
+
+2021년 08월 23일 11시 50분 35초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.82    0.57    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10490.00  837.00     40.98     40.81     0.00     0.00   0.00   0.00    0.05    0.43   0.00     4.00    49.93   0.09 100.00
+
+2021년 08월 23일 11시 50분 36초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.45    3.45    0.00   93.98
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8190.00  653.00     31.99     31.93     0.00     0.00   0.00   0.00    0.06    0.41   0.00     4.00    50.08   0.11 100.00
+
+2021년 08월 23일 11시 50분 37초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.75    0.38    0.00   98.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9606.00  717.00     37.64     38.99    30.00   422.00   0.31  37.05    0.06    0.50   0.02     4.01    55.69   0.10  98.80
+
+2021년 08월 23일 11시 50분 38초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.45    1.89    0.00   96.54
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9114.00  714.00     35.85     35.40    61.00     0.00   0.66   0.00    0.06    0.43   0.00     4.03    50.77   0.10 100.00
+
+2021년 08월 23일 11시 50분 39초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.13    0.25    0.00   98.50
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9541.00  739.00     37.39     37.20    30.00     0.00   0.31   0.00    0.06    0.46   0.00     4.01    51.54   0.10 100.00
+
+2021년 08월 23일 11시 50분 40초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.13    0.31    0.00   98.50
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9982.00  704.00     39.23     38.78    59.00     0.00   0.59   0.00    0.06    0.47   0.00     4.02    56.41   0.09 100.00
+
+2021년 08월 23일 11시 50분 41초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    1.06    0.44    0.00   98.31
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9723.00  742.00     37.98     37.79     0.00     0.00   0.00   0.00    0.06    0.48   0.02     4.00    52.15   0.09  98.40
+
+2021년 08월 23일 11시 50분 42초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.69    0.31    0.00   98.99
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9595.00  779.00     37.48     39.02     0.00   392.00   0.00  33.48    0.06    0.45   0.00     4.00    51.29   0.10 100.00
+
+2021년 08월 23일 11시 50분 43초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    1.50    0.62    0.00   97.75
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9865.00  780.00     39.12     38.34   146.00     0.00   1.46   0.00    0.06    0.44   0.00     4.06    50.33   0.09 100.00
+
+2021년 08월 23일 11시 50분 44초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.64    3.39    0.00   93.78
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7679.00  667.00     30.00     29.82     0.00     0.00   0.00   0.00    0.06    0.38   0.00     4.00    45.78   0.12 100.00
+
+2021년 08월 23일 11시 50분 45초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.01    3.38    0.00   93.48
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7022.00  732.00     27.43     35.98     0.00  2069.00   0.00  73.87    0.07    0.77   0.11     4.00    50.33   0.13  98.80
+
+2021년 08월 23일 11시 50분 46초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.77    3.33    0.00   93.84
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7693.00  577.00     30.05     30.00     0.00     0.00   0.00   0.00    0.06    0.43   0.00     4.00    53.24   0.12 100.00
+
+2021년 08월 23일 11시 50분 47초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.19    3.13    0.00   93.55
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7929.00  621.00     31.22     32.66    62.00   468.00   0.78  42.98    0.06    0.43   0.00     4.03    53.85   0.12 100.00
+
+2021년 08월 23일 11시 50분 48초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.00    0.31    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10007.00  744.00     39.92     38.88   207.00     0.00   2.03   0.00    0.06    0.46   0.00     4.08    53.51   0.09 100.00
+
+2021년 08월 23일 11시 50분 49초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.19    2.63    0.00   94.99
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8628.00  641.00     33.82     33.61    30.00     0.00   0.35   0.00    0.06    0.44   0.00     4.01    53.69   0.11 100.00
+
+2021년 08월 23일 11시 50분 50초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.13    1.64    0.00   97.17
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8663.00  700.00     33.94     33.76    24.00     0.00   0.28   0.00    0.06    0.46   0.02     4.01    49.39   0.11  98.40
+
+2021년 08월 23일 11시 50분 51초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    3.25    3.12    0.00   93.50
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7382.00  582.00     28.84     28.76     0.00     0.00   0.00   0.00    0.06    0.42   0.00     4.00    50.60   0.13 100.00
+
+2021년 08월 23일 11시 50분 52초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.13    0.31    0.00   98.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9617.00  723.00     37.93     39.11    90.00   466.00   0.93  39.19    0.06    0.46   0.00     4.04    55.40   0.10 100.00
+
+2021년 08월 23일 11시 50분 53초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.00    0.25    0.00   98.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9952.00  755.00     38.88     38.80     0.00     0.00   0.00   0.00    0.06    0.45   0.00     4.00    52.62   0.09 100.00
+
+2021년 08월 23일 11시 50분 54초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.82    0.25    0.00   98.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9818.00  775.00     38.35     38.15     0.00     0.00   0.00   0.00    0.06    0.44   0.00     4.00    50.41   0.09 100.00
+
+2021년 08월 23일 11시 50분 55초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.00    0.44    0.00   98.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10052.00  729.00     39.27     38.85     0.00     0.00   0.00   0.00    0.05    0.48   0.02     4.00    54.57   0.09  98.80
+
+2021년 08월 23일 11시 50분 56초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.13    0.50    0.00   98.37
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10066.00  733.00     39.32     39.30     0.00     0.00   0.00   0.00    0.06    0.46   0.00     4.00    54.91   0.09 100.00
+
+2021년 08월 23일 11시 50분 57초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.76    3.32    0.00   93.73
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7628.00  575.00     29.80     31.59     0.00   449.00   0.00  43.85    0.06    0.45   0.00     4.00    56.25   0.12 100.00
+
+2021년 08월 23일 11시 50분 58초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    1.07    0.25    0.00   98.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9984.00  749.00     39.12     39.01    29.00     0.00   0.29   0.00    0.05    0.47   0.00     4.01    53.33   0.09 100.00
+
+2021년 08월 23일 11시 50분 59초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    0.94    0.38    0.00   98.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9996.00  777.00     39.05     38.79     0.00     0.00   0.00   0.00    0.05    0.46   0.02     4.00    51.11   0.09  98.80
+
+2021년 08월 23일 11시 51분 00초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.00    0.25    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10017.00  788.00     39.50     39.07    93.00     0.00   0.92   0.00    0.05    0.44   0.00     4.04    50.77   0.09 100.00
+
+2021년 08월 23일 11시 51분 01초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.00    0.31    0.00   98.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9601.00  746.00     37.97     37.38   116.00     0.00   1.19   0.00    0.06    0.46   0.00     4.05    51.31   0.10 100.00
+
+2021년 08월 23일 11시 51분 02초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.00    0.31    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9592.00  760.00     37.47     39.26     0.00   524.00   0.00  40.81    0.06    0.47   0.00     4.00    52.89   0.10 100.00
+
+2021년 08월 23일 11시 51분 03초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.19    1.06    0.00   97.69
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9438.00  761.00     36.87     36.74     0.00     0.00   0.00   0.00    0.06    0.46   0.02     4.00    49.43   0.10  98.80
+
+2021년 08월 23일 11시 51분 04초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    1.38    1.13    0.00   97.30
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8930.00  722.00     35.12     34.81    60.00     0.00   0.67   0.00    0.06    0.43   0.00     4.03    49.37   0.10 100.00
+
+2021년 08월 23일 11시 51분 05초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.70    3.26    0.00   93.86
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8090.00  611.00     31.60     31.27     0.00     0.00   0.00   0.00    0.06    0.43   0.00     4.00    52.41   0.11 100.00
+
+2021년 08월 23일 11시 51분 06초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.01    0.57    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9474.00  733.00     37.13     36.82    30.00     0.00   0.32   0.00    0.06    0.47   0.00     4.01    51.43   0.10 100.00
+
+2021년 08월 23일 11시 51분 07초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    2.52    2.96    0.00   94.28
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7266.00  582.00     28.62     30.18    59.00   448.00   0.81  43.50    0.06    0.44   0.00     4.03    53.11   0.13 100.00
+
+2021년 08월 23일 11시 51분 08초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.06    0.44    0.00   98.37
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9565.00  766.00     37.36     37.35     0.00     0.00   0.00   0.00    0.06    0.49   0.02     4.00    49.93   0.10  98.40
+
+2021년 08월 23일 11시 51분 09초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.75    0.31    0.00   98.87
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9816.00  762.00     38.34     38.07     0.00     0.00   0.00   0.00    0.06    0.46   0.00     4.00    51.17   0.09 100.00
+
+2021년 08월 23일 11시 51분 10초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.88    0.63    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9968.00  782.00     39.30     38.95    90.00     0.00   0.89   0.00    0.05    0.46   0.00     4.04    51.01   0.09 100.00
+
+2021년 08월 23일 11시 51분 11초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.13    0.94    0.00   97.80
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9459.00  706.00     37.07     36.78    29.00     0.00   0.31   0.00    0.06    0.45   0.00     4.01    53.34   0.10 100.00
+
+2021년 08월 23일 11시 51분 12초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.00    0.56    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9822.00  736.00     38.37     39.94     0.00   433.00   0.00  37.04    0.06    0.47   0.00     4.00    55.57   0.09  99.60
+
+2021년 08월 23일 11시 51분 13초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.94    3.01    0.00   93.86
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7106.00  586.00     27.76     27.56     0.00     0.00   0.00   0.00    0.07    0.45   0.02     4.00    48.16   0.13  99.20
+
+2021년 08월 23일 11시 51분 14초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.50    0.00   98.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9709.00  754.00     37.93     37.71     0.00     0.00   0.00   0.00    0.06    0.44   0.00     4.00    51.22   0.10 100.00
+
+2021년 08월 23일 11시 51분 15초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.71    3.08    0.00   94.02
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7095.00  676.00     28.54     27.61   207.00     0.00   2.83   0.00    0.07    0.36   0.00     4.12    41.82   0.13 100.00
+
+2021년 08월 23일 11시 51분 16초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.28    0.25    0.00   97.41
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7619.00  617.00     29.91     29.67    37.00     0.00   0.48   0.00    0.06    0.40   0.00     4.02    49.24   0.12 100.00
+
+2021년 08월 23일 11시 51분 17초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.34    0.44    0.00   97.09
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7392.00  611.00     29.24     30.54    91.00   469.00   1.22  43.43    0.06    0.42   0.00     4.05    51.19   0.12 100.00
+
+2021년 08월 23일 11시 51분 18초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    2.63    3.26    0.00   93.80
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7735.00  702.00     30.28     30.09    15.00     0.00   0.19   0.00    0.06    0.38   0.02     4.01    43.90   0.12  98.80
+
+2021년 08월 23일 11시 51분 19초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.13    0.31    0.00   98.50
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9706.00  887.00     38.15     37.92    59.00     0.00   0.60   0.00    0.06    0.40   0.00     4.03    43.78   0.09 100.00
+
+2021년 08월 23일 11시 51분 20초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.25    0.25    0.00   98.44
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9790.00  888.00     38.24     38.06     0.00     0.00   0.00   0.00    0.06    0.40   0.00     4.00    43.89   0.09 100.00
+
+2021년 08월 23일 11시 51분 21초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.38    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8806.00 1081.00     34.40     43.96     0.00  2281.00   0.00  67.85    0.06    0.64   0.17     4.00    41.64   0.10 100.00
+
+2021년 08월 23일 11시 51분 22초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.82    0.38    0.00   98.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9715.00  912.00     37.95     39.33     0.00   375.00   0.00  29.14    0.05    0.41   0.02     4.00    44.16   0.09  98.40
+
+2021년 08월 23일 11시 51분 23초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.50    1.38    0.00   97.12
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9951.00  815.00     38.87     38.75     0.00     1.00   0.00   0.12    0.05    0.41   0.00     4.00    48.68   0.09 100.00
+
+2021년 08월 23일 11시 51분 24초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.31    0.00   98.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9906.00  855.00     38.94     38.58    62.00     0.00   0.62   0.00    0.05    0.42   0.00     4.03    46.20   0.09 100.00
+
+2021년 08월 23일 11시 51분 25초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.25    0.00   98.74
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10094.00  867.00     39.55     39.25    29.00     0.00   0.29   0.00    0.05    0.40   0.00     4.01    46.35   0.09 100.00
+
+2021년 08월 23일 11시 51분 26초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.75    0.31    0.00   98.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9793.00  944.00     38.25     38.01     0.00     0.00   0.00   0.00    0.05    0.39   0.02     4.00    41.23   0.09  98.80
+
+2021년 08월 23일 11시 51분 27초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.00    0.25    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9483.00  929.00     37.15     38.86    28.00   472.00   0.29  33.69    0.06    0.39   0.00     4.01    42.84   0.10 100.00
+
+2021년 08월 23일 11시 51분 28초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.06    0.56    0.00   98.25
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9674.00  912.00     37.91     37.59    31.00     0.00   0.32   0.00    0.06    0.39   0.00     4.01    42.21   0.09 100.00
+
+2021년 08월 23일 11시 51분 29초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.07    3.32    0.00   93.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7458.00  710.00     29.25     29.09    29.00     0.00   0.39   0.00    0.06    0.37   0.00     4.02    41.95   0.12 100.00
+
+2021년 08월 23일 11시 51분 30초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.64    1.39    0.00   95.78
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7185.00  621.00     28.07     28.05     0.00     0.00   0.00   0.00    0.07    0.40   0.00     4.00    46.26   0.13 100.00
+
+2021년 08월 23일 11시 51분 31초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    2.13    2.07    0.00   95.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7938.00  790.00     31.13     30.88    29.00     0.00   0.36   0.00    0.06    0.38   0.02     4.02    40.03   0.11  98.40
+
+2021년 08월 23일 11시 51분 32초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.69    0.44    0.00   98.80
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9998.00  954.00     39.05     40.39     0.00   394.00   0.00  29.23    0.05    0.38   0.00     4.00    43.35   0.09 100.00
+
+2021년 08월 23일 11시 51분 33초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.62    2.50    0.00   94.69
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8138.00  754.00     32.16     31.77    91.00     0.00   1.11   0.00    0.06    0.37   0.00     4.05    43.14   0.11 100.00
+
+2021년 08월 23일 11시 51분 34초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    3.49    3.05    0.00   93.14
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7538.00  723.00     29.45     29.31     0.00     0.00   0.00   0.00    0.06    0.35   0.00     4.00    41.51   0.12 100.40
+
+2021년 08월 23일 11시 51분 35초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.82    0.31    0.00   98.74
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10159.00  900.00     40.03     39.57    87.00     0.00   0.85   0.00    0.05    0.38   0.00     4.04    45.03   0.09  99.60
+
+2021년 08월 23일 11시 51분 36초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.07    0.63    0.00   98.18
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9796.00  950.00     38.50     38.13    60.00     0.00   0.61   0.00    0.05    0.37   0.02     4.02    41.10   0.09  98.80
+
+2021년 08월 23일 11시 51분 37초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.82    3.45    0.00   93.54
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7473.00  722.00     29.19     30.85     0.00   485.00   0.00  40.18    0.06    0.36   0.00     4.00    43.76   0.12 100.40
+
+2021년 08월 23일 11시 51분 38초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    3.25    3.06    0.00   93.38
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7499.00  722.00     29.41     29.09    30.00     0.00   0.40   0.00    0.06    0.34   0.00     4.02    41.25   0.12 100.00
+
+2021년 08월 23일 11시 51분 39초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.13    0.50    0.00   98.25
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9895.00  967.00     39.14     38.64   121.00     0.00   1.21   0.00    0.05    0.36   0.00     4.05    40.91   0.09  99.60
+
+2021년 08월 23일 11시 51분 40초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.50    1.50    0.00   96.87
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9166.00  828.00     36.02     36.77    55.00   286.00   0.60  25.67    0.06    0.40   0.00     4.02    45.48   0.10 100.40
+
+2021년 08월 23일 11시 51분 41초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.12    0.00    2.81    3.69    0.00   93.38
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8191.00  744.00     32.00     31.90     0.00     0.00   0.00   0.00    0.06    0.39   0.02     4.00    43.90   0.11  98.80
+
+2021년 08월 23일 11시 51분 42초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.32    0.44    0.00   98.18
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10086.00  804.00     39.40     39.24     0.00     0.00   0.00   0.00    0.05    0.43   0.00     4.00    49.98   0.09 100.00
+
+2021년 08월 23일 11시 51분 43초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    1.44    1.19    0.00   97.18
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9136.00  819.00     35.93     35.57    60.00     0.00   0.65   0.00    0.06    0.39   0.00     4.03    44.47   0.10 100.00
+
+2021년 08월 23일 11시 51분 44초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    2.31    1.94    0.00   95.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8535.00  761.00     33.46     33.26    29.00     0.00   0.34   0.00    0.06    0.38   0.00     4.01    44.76   0.11 100.00
+
+2021년 08월 23일 11시 51분 45초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.45    3.20    0.00   94.23
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8110.00  729.00     31.68     33.05     0.00   400.00   0.00  35.43    0.06    0.39   0.02     4.00    46.42   0.11  98.80
+
+2021년 08월 23일 11시 51분 46초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.99    3.62    0.00   93.20
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8306.00  741.00     32.45     32.52     0.00     0.00   0.00   0.00    0.06    0.37   0.00     4.00    44.94   0.11  99.60
+
+2021년 08월 23일 11시 51분 47초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.14    2.70    0.00   93.97
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7224.00  650.00     28.22     28.03     0.00     0.00   0.00   0.00    0.06    0.36   0.00     4.00    44.16   0.13 100.40
+
+2021년 08월 23일 11시 51분 48초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    3.19    3.00    0.00   93.55
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7295.00  697.00     28.50     28.40     0.00     0.00   0.00   0.00    0.06    0.34   0.00     4.00    41.72   0.13 100.00
+
+2021년 08월 23일 11시 51분 49초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.88    0.63    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9396.00  897.00     36.70     36.55     0.00     0.00   0.00   0.00    0.06    0.38   0.00     4.00    41.73   0.10 100.00
+
+2021년 08월 23일 11시 51분 50초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.63    3.51    0.00   93.67
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8537.00  721.00     33.53     34.94    44.00   449.00   0.51  38.38    0.06    0.40   0.02     4.02    49.63   0.11  98.80
+
+2021년 08월 23일 11시 51분 51초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.07    3.44    0.00   93.37
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7746.00  746.00     30.26     30.12     0.00     0.00   0.00   0.00    0.06    0.34   0.00     4.00    41.34   0.12 100.00
+
+2021년 08월 23일 11시 51분 52초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.57    1.07    0.00   97.24
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9416.00  818.00     36.78     36.59     0.00     0.00   0.00   0.00    0.05    0.39   0.00     4.00    45.80   0.10 100.00
+
+2021년 08월 23일 11시 51분 53초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.13    0.25    0.00   98.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9890.00  890.00     38.63     38.70     0.00     0.00   0.00   0.00    0.06    0.38   0.00     4.00    44.52   0.09 100.00
+
+2021년 08월 23일 11시 51분 54초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.82    0.25    0.00   98.87
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10111.00  873.00     39.62     39.23    30.00     0.00   0.30   0.00    0.05    0.40   0.00     4.01    46.02   0.09 100.00
+
+2021년 08월 23일 11시 51분 55초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.44    1.63    0.00   96.86
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9651.00  778.00     38.18     39.41   119.00   472.00   1.22  37.76    0.05    0.46   0.02     4.05    51.88   0.09  98.40
+
+2021년 08월 23일 11시 51분 56초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.01    0.63    0.00   98.30
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9422.00  757.00     37.18     36.77    92.00     0.00   0.97   0.00    0.06    0.46   0.00     4.04    49.74   0.10 100.00
+
+2021년 08월 23일 11시 51분 57초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.88    0.69    0.00   98.31
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9501.00  865.00     37.47     46.54    90.00  2322.00   0.94  72.86    0.06    0.97   0.29     4.04    55.09   0.10 100.00
+
+2021년 08월 23일 11시 51분 58초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    3.25    3.07    0.00   93.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7562.00  609.00     29.66     29.47    30.00     0.00   0.40   0.00    0.06    0.41   0.00     4.02    49.55   0.12 100.00
+
+2021년 08월 23일 11시 51분 59초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.82    0.69    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9464.00  733.00     37.09     36.74    29.00     0.00   0.31   0.00    0.06    0.48   0.02     4.01    51.32   0.10  98.80
+
+2021년 08월 23일 11시 52분 00초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.51    1.38    0.00   97.05
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8741.00  735.00     34.14     35.80     0.00   527.00   0.00  41.76    0.06    0.45   0.00     4.00    49.88   0.11 100.00
+
+2021년 08월 23일 11시 52분 01초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.82    1.88    0.00   95.11
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7456.00  547.00     29.12     29.26     0.00     0.00   0.00   0.00    0.07    0.44   0.00     4.00    54.78   0.12 100.00
+
+2021년 08월 23일 11시 52분 02초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.70    3.14    0.00   94.09
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7785.00  547.00     30.41     30.02     0.00     0.00   0.00   0.00    0.06    0.44   0.00     4.00    56.20   0.12 100.00
+
+2021년 08월 23일 11시 52분 03초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    1.69    1.06    0.00   97.00
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8733.00  674.00     34.11     34.21     0.00     0.00   0.00   0.00    0.06    0.46   0.00     4.00    51.98   0.11 100.00
+
+2021년 08월 23일 11시 52분 04초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.75    0.44    0.00   98.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9531.00  773.00     37.47     37.14    60.00     0.00   0.63   0.00    0.06    0.48   0.02     4.03    49.20   0.10  98.80
+
+2021년 08월 23일 11시 52분 05초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.07    0.75    0.00   98.12
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9524.00  731.00     37.32     38.93    30.00   495.00   0.31  40.38    0.06    0.48   0.00     4.01    54.54   0.10 100.00
+
+2021년 08월 23일 11시 52분 06초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.69    0.25    0.00   98.93
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9811.00  810.00     38.68     38.24    89.00     0.00   0.90   0.00    0.06    0.43   0.00     4.04    48.35   0.09 100.00
+
+2021년 08월 23일 11시 52분 07초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.31    0.00   98.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9671.00  764.00     37.78     38.80     0.00   319.00   0.00  29.46    0.06    0.45   0.00     4.00    52.00   0.10 100.00
+
+2021년 08월 23일 11시 52분 08초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.88    0.69    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9709.00  776.00     37.93     37.75     0.00     0.00   0.00   0.00    0.06    0.46   0.02     4.00    49.82   0.09  98.40
+
+2021년 08월 23일 11시 52분 09초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.82    3.51    0.00   93.61
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7655.00  653.00     29.90     29.82     0.00     0.00   0.00   0.00    0.06    0.38   0.00     4.00    46.76   0.12 100.00
+
+2021년 08월 23일 11시 52분 10초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.70    0.25    0.00   96.92
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7281.00  574.00     28.44     28.25     0.00     0.00   0.00   0.00    0.07    0.43   0.00     4.00    50.40   0.13 100.00
+
+2021년 08월 23일 11시 52분 11초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    2.32    1.13    0.00   96.30
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7781.00  702.00     30.39     30.38     0.00     0.00   0.00   0.00    0.06    0.40   0.00     4.00    44.31   0.12 100.00
+
+2021년 08월 23일 11시 52분 12초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.75    0.31    0.00   98.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10264.00  857.00     40.34     41.92    62.00   488.00   0.60  36.28    0.05    0.44   0.00     4.02    50.09   0.09 100.00
+
+2021년 08월 23일 11시 52분 13초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.38    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9679.00  739.00     37.93     37.61    29.00     0.00   0.30   0.00    0.06    0.47   0.02     4.01    52.11   0.09  98.40
+
+2021년 08월 23일 11시 52분 14초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.50    0.32    0.00   99.12
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10137.00  758.00     40.12     39.49   129.00     0.00   1.26   0.00    0.06    0.45   0.00     4.05    53.35   0.09 100.00
+
+2021년 08월 23일 11시 52분 15초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    0.94    0.25    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10009.00  771.00     39.10     38.96     0.00     0.00   0.00   0.00    0.06    0.43   0.00     4.00    51.74   0.09 100.00
+
+2021년 08월 23일 11시 52분 16초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.94    2.13    0.00   95.80
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8873.00  636.00     34.66     34.49     0.00     0.00   0.00   0.00    0.06    0.46   0.00     4.00    55.53   0.11 100.00
+
+2021년 08월 23일 11시 52분 17초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    3.06    3.19    0.00   93.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7643.00  607.00     29.85     31.46     0.00   437.00   0.00  41.86    0.06    0.44   0.00     4.00    53.08   0.12 100.00
+
+2021년 08월 23일 11시 52분 18초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.69    2.38    0.00   95.86
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8551.00  748.00     33.40     33.22     0.00     0.00   0.00   0.00    0.06    0.42   0.02     4.00    45.48   0.11  98.40
+
+2021년 08월 23일 11시 52분 19초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.75    0.31    0.00   98.87
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9451.00  810.00     37.04     36.82    30.00     0.00   0.32   0.00    0.06    0.43   0.00     4.01    46.55   0.10 100.00
+
+2021년 08월 23일 11시 52분 20초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.57    0.31    0.00   99.06
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9529.00  731.00     37.22     37.10     0.00     0.00   0.00   0.00    0.06    0.46   0.00     4.00    51.97   0.10 100.00
+
+2021년 08월 23일 11시 52분 21초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.75    0.25    0.00   98.93
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9889.00  766.00     39.24     37.79   153.00     0.00   1.52   0.00    0.06    0.45   0.00     4.06    50.51   0.09 100.00
+
+2021년 08월 23일 11시 52분 22초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.19    2.87    0.00   94.88
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8715.00  661.00     34.41     36.52    90.00   529.00   1.02  44.45    0.06    0.51   0.02     4.04    56.57   0.11  98.80
+
+2021년 08월 23일 11시 52분 23초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.01    3.01    0.00   93.80
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7407.00  590.00     28.93     29.01     0.00     0.00   0.00   0.00    0.06    0.42   0.00     4.00    50.35   0.13 100.00
+
+2021년 08월 23일 11시 52분 24초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.88    0.25    0.00   98.74
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9957.00  766.00     38.89     38.76     0.00     0.00   0.00   0.00    0.06    0.45   0.00     4.00    51.82   0.09 100.00
+
+2021년 08월 23일 11시 52분 25초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.07    0.31    0.00   98.62
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9802.00  783.00     38.41     38.17    29.00     0.00   0.29   0.00    0.06    0.45   0.00     4.01    49.92   0.09 100.00
+
+2021년 08월 23일 11시 52분 26초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.57    0.31    0.00   99.06
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9976.00  705.00     38.97     38.72     0.00     0.00   0.00   0.00    0.06    0.48   0.00     4.00    56.24   0.09 100.00
+
+2021년 08월 23일 11시 52분 27초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    0.88    0.38    0.00   98.74
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9441.00  761.00     37.00     38.35    29.00   457.00   0.31  37.52    0.06    0.49   0.02     4.01    51.61   0.10  98.80
+
+2021년 08월 23일 11시 52분 28초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.88    0.25    0.00   98.74
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10032.00  772.00     39.19     39.23     0.00     0.00   0.00   0.00    0.05    0.46   0.00     4.00    52.04   0.09 100.00
+
+2021년 08월 23일 11시 52분 29초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.88    0.25    0.00   98.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10459.00  847.00     40.98     40.54    30.00     0.00   0.29   0.00    0.05    0.41   0.00     4.01    49.01   0.09 100.00
+
+2021년 08월 23일 11시 52분 30초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.63    0.32    0.00   98.99
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10525.00  822.00     41.23     41.07    29.00     0.00   0.27   0.00    0.05    0.44   0.00     4.01    51.17   0.09 100.00
+
+2021년 08월 23일 11시 52분 31초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.94    0.44    0.00   98.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10049.00  770.00     39.25     39.21     0.00     0.00   0.00   0.00    0.05    0.46   0.02     4.00    52.15   0.09  98.80
+
+2021년 08월 23일 11시 52분 32초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.88    1.94    0.00   96.12
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9493.00  720.00     37.08     38.83     0.00   554.00   0.00  43.49    0.06    0.45   0.01     4.00    55.22   0.10 100.00
+
+2021년 08월 23일 11시 52분 33초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.82    0.63    0.00   98.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9825.00  940.00     38.50     48.95    31.00  2526.00   0.31  72.88    0.06    0.75   0.16     4.01    53.32   0.09 100.00
+
+2021년 08월 23일 11시 52분 34초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    2.13    1.82    0.00   95.99
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8779.00  677.00     34.91     34.18   153.00     0.00   1.71   0.00    0.06    0.43   0.00     4.07    51.69   0.11 100.00
+
+2021년 08월 23일 11시 52분 35초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.75    0.38    0.00   98.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9686.00  727.00     38.20     37.54    91.00     0.00   0.93   0.00    0.06    0.49   0.02     4.04    52.87   0.09  98.80
+
+2021년 08월 23일 11시 52분 36초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.13    0.25    0.00   98.50
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9635.00  769.00     37.75     37.60    29.00     0.00   0.30   0.00    0.06    0.45   0.00     4.01    50.07   0.10 100.00
+
+2021년 08월 23일 11시 52분 37초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.00    0.25    0.00   98.74
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9457.00  776.00     37.18     39.32    59.00   627.00   0.62  44.69    0.06    0.47   0.00     4.03    51.88   0.10 100.00
+
+2021년 08월 23일 11시 52분 38초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    0.94    0.31    0.00   98.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9903.00  786.00     38.68     38.59     0.00     0.00   0.00   0.00    0.06    0.45   0.00     4.00    50.27   0.09 100.00
+
+2021년 08월 23일 11시 52분 39초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.69    1.13    0.00   97.12
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8829.00  675.00     34.49     34.20     0.00     0.00   0.00   0.00    0.06    0.48   0.02     4.00    51.89   0.10  98.80
+
+2021년 08월 23일 11시 52분 40초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.13    0.25    0.00   98.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9470.00  752.00     37.24     36.89    62.00     0.00   0.65   0.00    0.06    0.46   0.00     4.03    50.23   0.10 100.00
+
+2021년 08월 23일 11시 52분 41초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    1.06    0.50    0.00   98.25
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9334.00  722.00     36.46     36.36     0.00     0.00   0.00   0.00    0.06    0.48   0.00     4.00    51.57   0.10 100.00
+
+2021년 08월 23일 11시 52분 42초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.01    3.26    0.00   93.55
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7154.00  574.00     28.06     29.56    29.00   422.00   0.40  42.37    0.07    0.43   0.00     4.02    52.73   0.13 100.00
+
+2021년 08월 23일 11시 52분 43초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.95    2.14    0.00   95.85
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8515.00  662.00     33.38     33.00    30.00     0.00   0.35   0.00    0.06    0.43   0.00     4.01    51.05   0.11 100.00
+
+2021년 08월 23일 11시 52분 44초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.44    1.51    0.00   96.92
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8811.00  711.00     34.54     34.34    30.00     0.00   0.34   0.00    0.06    0.45   0.02     4.01    49.45   0.10  98.40
+
+2021년 08월 23일 11시 52분 45초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    3.18    3.12    0.00   93.40
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7221.00  626.00     28.67     28.20   116.00     0.00   1.58   0.00    0.07    0.39   0.00     4.07    46.12   0.13 100.00
+
+2021년 08월 23일 11시 52분 46초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.69    3.01    0.00   94.18
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8212.00  689.00     32.32     31.97    59.00     0.00   0.71   0.00    0.06    0.40   0.00     4.03    47.51   0.11 100.00
+
+2021년 08월 23일 11시 52분 47초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.75    1.13    0.00   96.99
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9028.00  744.00     35.27     37.27     0.00   575.00   0.00  43.59    0.06    0.46   0.00     4.00    51.29   0.10 100.00
+
+2021년 08월 23일 11시 52분 48초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    1.13    0.56    0.00   98.12
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10244.00  780.00     40.21     39.77    49.00     0.00   0.48   0.00    0.05    0.44   0.00     4.02    52.22   0.09 100.00
+
+2021년 08월 23일 11시 52분 49초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.82    3.01    0.00   93.98
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7435.00  561.00     29.04     28.66     0.00     0.00   0.00   0.00    0.06    0.46   0.02     4.00    52.31   0.12  98.80
+
+2021년 08월 23일 11시 52분 50초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.13    1.00    0.00   97.87
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9565.00  744.00     37.36     37.67     0.00     0.00   0.00   0.00    0.06    0.45   0.00     4.00    51.84   0.10 100.00
+
+2021년 08월 23일 11시 52분 51초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    2.94    3.25    0.00   93.49
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7612.00  633.00     29.73     29.63     0.00     0.00   0.00   0.00    0.06    0.40   0.00     4.00    47.94   0.12 100.00
+
+2021년 08월 23일 11시 52분 52초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    3.19    3.06    0.00   93.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7642.00  607.00     29.85     31.37     0.00   419.00   0.00  40.84    0.06    0.42   0.00     4.00    52.93   0.12 100.40
+
+2021년 08월 23일 11시 52분 53초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    0.94    0.57    0.00   98.37
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9606.00  746.00     37.52     37.39     0.00     0.00   0.00   0.00    0.06    0.44   0.00     4.00    51.32   0.10 100.00
+
+2021년 08월 23일 11시 52분 54초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.31    0.00    3.24    3.06    0.00   93.39
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7236.00  597.00     28.27     28.07     0.00     0.00   0.00   0.00    0.06    0.43   0.02     4.00    48.15   0.13  98.80
+
+2021년 08월 23일 11시 52분 55초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.00    0.56    0.00   98.37
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10303.00  756.00     40.25     40.31     0.00     0.00   0.00   0.00    0.05    0.47   0.00     4.00    54.60   0.09  99.60
+
+2021년 08월 23일 11시 52분 56초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.26    1.13    0.00   97.55
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9664.00  669.00     37.75     37.45     0.00     0.00   0.00   0.00    0.05    0.47   0.00     4.00    57.32   0.10 100.00
+
+2021년 08월 23일 11시 52분 57초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.13    0.56    0.00   98.18
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9972.00  763.00     39.19     40.97    60.00   494.00   0.60  39.30    0.06    0.47   0.00     4.02    54.98   0.09 100.00
+
+2021년 08월 23일 11시 52분 58초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    1.13    2.01    0.00   96.80
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9488.00  758.00     37.06     36.94     0.00     0.00   0.00   0.00    0.06    0.46   0.02     4.00    49.90   0.10  98.80
+
+2021년 08월 23일 11시 52분 59초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.50    2.69    0.00   94.68
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8759.00  686.00     34.21     34.05     0.00     0.00   0.00   0.00    0.06    0.42   0.00     4.00    50.83   0.11 100.40
+
+2021년 08월 23일 11시 53분 00초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.75    3.31    0.00   93.75
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7916.00  611.00     31.16     30.59    59.00     0.00   0.74   0.00    0.06    0.42   0.00     4.03    51.27   0.12 100.00
+
+2021년 08월 23일 11시 53분 01초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.00    0.00    1.07    0.50    0.00   98.43
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9950.00  715.00     38.98     38.96    29.00     0.00   0.29   0.00    0.06    0.47   0.00     4.01    55.80   0.09 100.00
+
+2021년 08월 23일 11시 53분 02초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    2.81    3.68    0.00   93.32
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8265.00  612.00     32.40     33.82    30.00   471.00   0.36  43.49    0.06    0.44   0.00     4.01    56.59   0.11 100.00
+
+2021년 08월 23일 11시 53분 03초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    2.26    2.26    0.00   95.35
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8234.00  675.00     32.41     32.04    59.00     0.00   0.71   0.00    0.06    0.43   0.02     4.03    48.61   0.11  98.00
+
+2021년 08월 23일 11시 53분 04초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.82    0.31    0.00   98.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           9978.00  813.00     38.97     38.96     0.00     0.00   0.00   0.00    0.05    0.43   0.00     4.00    49.07   0.09 100.40
+
+2021년 08월 23일 11시 53분 05초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.13    0.00    1.00    0.56    0.00   98.31
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           10560.00  826.00     41.25     41.10     0.00     0.00   0.00   0.00    0.05    0.42   0.00     4.00    50.95   0.09 100.00
+
+2021년 08월 23일 11시 53분 06초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.19    0.00    3.00    3.50    0.00   93.32
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           7927.00  688.00     30.96     30.70     0.00     0.00   0.00   0.00    0.06    0.38   0.00     4.00    45.70   0.12 100.00
+
+2021년 08월 23일 11시 53분 07초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.25    0.00    1.88    3.56    0.00   94.31
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb           8154.00  647.00     31.85     31.91     0.00     0.00   0.00   0.00    0.05    0.40   0.00     4.00    50.51   0.10  85.20
+
+2021년 08월 23일 11시 53분 08초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.19    0.19    0.00   99.56
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb              0.00  149.00      0.00     12.18     0.00  2970.00   0.00  95.22    0.00    2.45   0.16     0.00    83.73   0.32   4.80
+
+2021년 08월 23일 11시 53분 09초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.12    0.00    0.00   99.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb              0.00    0.00      0.00      0.00     0.00     0.00   0.00   0.00    0.00    0.00   0.00     0.00     0.00   0.00   0.00
+
+2021년 08월 23일 11시 53분 10초
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.06    0.00    0.12    0.00    0.00   99.81
+
+Device            r/s     w/s     rMB/s     wMB/s   rrqm/s   wrqm/s  %rrqm  %wrqm r_await w_await aqu-sz rareq-sz wareq-sz  svctm  %util
+sdb              0.00    0.00      0.00      0.00     0.00     0.00   0.00   0.00    0.00    0.00   0.00     0.00     0.00   0.00   0.00
+

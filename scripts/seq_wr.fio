@@ -1,0 +1,24 @@
+; fio-seq-write.job for fiotest
+
+[global]
+;name=fio-seq-write
+directory=/mnt/defrag
+;filename=/dev/md126
+rw=write
+bs=4k
+;direct=0
+direct=1
+;numjobs=64
+numjobs=16
+;verify=meta
+;time_based
+;runtime=60
+group_reporting
+
+[file1]
+size=3G
+;nrfiles=2
+;ioengine=libaio
+;ioengine=pvsync2
+;hipri
+;iodepth=16
