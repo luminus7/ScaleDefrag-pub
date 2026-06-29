@@ -989,10 +989,10 @@ group_extend_out:
 		if (err)
 			goto mext_out;
 
-		//err = pxt4_move_extents(filp, donor.file, me.orig_start,
-		//			me.donor_start, me.len, &me.moved_len);
-		err = pxt4_move_extents_async(filp, donor.file, me.orig_start,
+		err = pxt4_move_extents(filp, donor.file, me.orig_start,
 					me.donor_start, me.len, &me.moved_len);
+		//err = pxt4_move_extents_async(filp, donor.file, me.orig_start,
+		//			me.donor_start, me.len, &me.moved_len);
 		mnt_drop_write_file(filp);
 
 		if (copy_to_user((struct move_extent __user *)arg,

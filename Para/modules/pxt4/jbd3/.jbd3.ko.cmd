@@ -1,1 +1,0 @@
-cmd_/home/syslab/workspace/epdefrag_luma/modules/pxt4/jbd3/jbd3.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/syslab/workspace/epdefrag_luma/modules/pxt4/jbd3/jbd3.ko /home/syslab/workspace/epdefrag_luma/modules/pxt4/jbd3/jbd3.o /home/syslab/workspace/epdefrag_luma/modules/pxt4/jbd3/jbd3.mod.o;  true
