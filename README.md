@@ -1,15 +1,35 @@
-## ScaleDefrag: Design and implementation of a scalable file defragmentation tool for flash-based SSDs
-Sangjin Lee, Sunggon Kim, Yongseok Son, PLOS One
+# ScaleDefrag: Design and Implementation of a Scalable File Defragmentation Tool for Flash-based SSDs
 
-## An Efficient and Parallel File Defragment Scheme for SSDs
-Guangyu Zhu, Sangjin Lee, Yongseok Son, In Proceedings of 36th ACM/SIGAPP
-Symposium on Applied Computing (SAC'22)
+**ScaleDefrag** is a scalable file defragmentation tool for flash-based SSDs.
 
-We implemented our scheme based e4defrag. There are user space part and kernel
-space part.
+This repository contains the implementation of the following paper:
 
-The user space part is in `e2fsprogs/misc/e4defrag.c`.
-The kernel space implementation is focus on `move_extent.c` of ext4.
-Because ext4 is the default filesystem for many distro, to ease the use, we
-duplicate the ext4 source code and name it pxt4. You can build pxt4 module and
-mount it on the disk that you want to test the defragmentation.
+**Sangjin Lee, Sunggon Kim, and Yongseok Son**,  
+*ScaleDefrag: Design and Implementation of a Scalable File Defragmentation Tool for Flash-based SSDs*,  
+PLOS ONE.  
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348520
+
+ScaleDefrag extends our previous conference paper:
+
+**Guangyu Zhu, Jeongeun Lee, Yongseok Son**,
+In Proceedings of 36th ACM/SIGAPP Symposium on Applied Computing (SAC'22)
+*An Efficient and Parallel File Defragment Scheme for SSDs*,  
+Proceedings of the 36th ACM/SIGAPP Symposium on Applied Computing, SAC '22.  
+https://dl.acm.org/doi/abs/10.1145/3477314.3507225
+
+## Overview
+
+ScaleDefrag is implemented based on `e4defrag` and consists of both user-space and kernel-space components.
+
+The user-space component is implemented in:
+
+```text
+e2fsprogs/misc/e4defrag.c
+```
+
+The kernel-space component is mainly implemented by modifying the `move_extent.c` logic in `ext4`.
+
+Since `ext4` is the default file system in many Linux distributions, we forked the `ext4` source code and renamed it `pxt4` for ease of use and testing.
+Users can build the `pxt4` kernel module and mount it on the target disk to evaluate ScaleDefrag.
+
+ScaleDefrag supports parallel file defragmentation using an asynchronous I/O approach.
