@@ -12,9 +12,8 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348520
 ScaleDefrag extends our previous conference paper:
 
 **Guangyu Zhu, Jeongeun Lee, Yongseok Son**,
-In Proceedings of 36th ACM/SIGAPP Symposium on Applied Computing (SAC'22)
 *An Efficient and Parallel File Defragment Scheme for SSDs*,  
-Proceedings of the 36th ACM/SIGAPP Symposium on Applied Computing, SAC '22.  
+In Proceedings of 36th ACM/SIGAPP Symposium on Applied Computing, SAC '22.  
 https://dl.acm.org/doi/abs/10.1145/3477314.3507225
 
 ## Overview
